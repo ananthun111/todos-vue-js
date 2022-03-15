@@ -3,7 +3,7 @@
 
 You can check this in the below URL.
 
-https://ananthun111.github.io/todos-vue-js/
+https://todo.malcod.xyz
 
 Feel free to use and give me feedback
 
